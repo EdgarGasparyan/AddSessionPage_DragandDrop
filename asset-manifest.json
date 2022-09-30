@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/css/main.cefce2c9.css",
+    "main.js": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/js/main.bbe8e622.js",
+    "static/js/787.9e275225.chunk.js": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/js/787.9e275225.chunk.js",
+    "index.html": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/index.html",
+    "main.cefce2c9.css.map": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/css/main.cefce2c9.css.map",
+    "main.bbe8e622.js.map": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/js/main.bbe8e622.js.map",
+    "787.9e275225.chunk.js.map": "/edgargasparyan.github.io/AddSessionPage_DragandDrop/static/js/787.9e275225.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefce2c9.css",
+    "static/js/main.bbe8e622.js"
+  ]
+}
